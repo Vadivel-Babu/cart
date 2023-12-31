@@ -7,4 +7,4 @@ The cart items are stored to localstorage so the data can not be erase after ref
 you can navigate home,product and cart pages.
 
 to run this app loaclly clone this repository
-run the command - npm i the npm run dev
+run the command - npm i then npm run dev
