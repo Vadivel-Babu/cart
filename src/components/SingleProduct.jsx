@@ -33,7 +33,7 @@ const SingleProduct = () => {
   return (
     <section className="product">
       <div className="container flex-2">
-       {product && <Imgcarousel imgs={product.images}/>}
+       {product && <Imgcarousel imgs={product.images} className='carousel'/>}
         <div className="content">
           <span>Category: {product.category}</span>
           <h1 className="title">Model: {product.title}</h1>
